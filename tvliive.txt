@@ -535,13 +535,6 @@ NHK华语视界,https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.
 香港C+,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8
 TVBS新闻,rtmp://59.124.75.137/sat/tv551
 中国环球电视,http://live.cgtn.com/500/prog_index.m3u8
-速看，有时效
-网络电视分享 今天
-图片
-适应网络：全网通
-更新时间：2021/10/15
-温馨提示：微信群通过公众号主页查看添加方式！
-图片
 凤凰中文,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=190&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1#http://125.210.152.18:9090/live/FHZW_1200.m3u8
 
 凤凰资讯,http://117.169.120.138:8080/live/fhzixun/.m3u8#http://125.210.152.18:9090/live/FHZX_1200.m3u8
@@ -576,7 +569,78 @@ TVB 星河,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8#http://50.7.161
 
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
 
-
+民视,rtmp://161.202.204.248/sat/tv051#rtmp://161.202.204.248:1935/sat/tv051
+台视,rtmp://161.202.204.248/sat/tv071#rtmp://161.202.204.248:1935/sat/tv071
+中视,rtmp://161.202.204.248/sat/tv091#rtmp://161.202.204.248:1935/sat/tv091
+華视,rtmp://161.202.204.248:1935/sat/tv111
+TVBS欢乐台,rtmp://161.202.204.248/sat/tv421
+纬来日本,rtmp://161.202.204.248:1935/sat/tv521
+TVBS新闻台,rtmp://161.202.204.248/sat/tv551
+东森财经新闻,rtmp://161.202.204.248:1935/sat/tv571
+纬来育乐,rtmp://161.202.204.248/sat/tv701
+纬来育乐,rtmp://161.202.204.248:1935/sat/tv701
+纬来体育,rtmp://161.202.204.248/sat/tv721
+纬来体育,rtmp://161.202.204.248:1935/sat/tv721
+eleven1,rtmp://161.202.204.248:1935/sat/tv731
+eleven2,rtmp://161.202.204.248:1935/sat/tv741
+MoMo综合台,rtmp://161.202.204.248/sat/tv761
+东森超视,rtmp://161.202.204.248/sat/tv771
+爱尔达体育1,rtmp://161.202.204.248/sat/md011
+eleven2,rtmp://161.202.204.248/sat/md021
+博斯网球,rtmp://161.202.204.248/sat/md031
+博斯魅力,rtmp://161.202.204.248/sat/md041
+爱尔达体育1,rtmp://161.202.204.248/sat/md051
+有线 SPORTS 1,rtmp://161.202.204.248:1935/sat/hk021
+有线603HD,rtmp://161.202.204.248:1935/sat/hk011
+有线18台,rtmp://161.202.204.248/sat/hk041
+CBS2 720,rtmp://161.202.204.248:1935/sat/us011
+原住民电视,http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
+寰宇新闻台,http://58.99.33.16:1935/liveedge17/live_163_3.stream/chunklist.m3u8
+中视新闻,http://seb.sason.top/sc/zsxw_fhd.m3u8
+台视新闻台,http://seb.sason.top/sc/tsxw_fhd.m3u8
+民视,http://seb.sason.top/ptv/ftv.php?id=ms
+民视第一台,http://seb.sason.top/ptv/ftv.php?id=dy
+民视新闻台,http://seb.sason.top/sc/msxw_fhd.m3u8
+民视新闻台,http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+民视台湾台,http://seb.sason.top/ptv/ftv.php?id=tw
+民视综艺台,http://seb.sason.top/ptv/ftv.php?id=zy
+民视影剧,http://seb.sason.top/ptv/ftv.php?id=yj
+民视旅游,http://seb.sason.top/ptv/ftv.php?id=ly
+中天新闻,http://seb.sason.top/sc/ztxw_fhd.m3u8
+momo综合台,http://58.99.33.16:1935/liveedge17/live_075_3.stream/chunklist.m3u8
+三立Live新闻,http://seb.sason.top/sc/sllive_fhd.m3u8
+三立iNews,http://seb.sason.top/sc/slinews_fhd.m3u8
+三立台湾,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&amp;rebase=on
+三立都会,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&amp;rebase=on
+东森新闻台,http://seb.sason.top/sc/dsxw_fhd.m3u8
+东森财经新闻台,http://seb.sason.top/sc/dscjxw_fhd.m3u8
+大立电视台,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+TVBS新闻台 HD,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
+博斯运动2,http://58.99.33.16:1935/liveedge17/live_244_3.stream/chunklist.m3u8
+智林体育台,http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
+天映电影HD,http://50.7.161.82:8278/streams/d/celestial_pye/playlist.m3u8
+HBO SIG,https://liveorigin01.hbogoasia.com:8443/origin/live/SIG/index.m3u8
+天映电影,http://210.210.155.35/qwr9ew/s/s33/01.m3u8
+星空卫视,https://liveanevia.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
+翡翠台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkjade
+无线财经,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkj52
+TVB J2,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkj22
+凤凰中文,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=fhzw
+凤凰资讯,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=fhzx
+天映频道,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hktypd
+壹新闻,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twyxw
+年代新闻,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twndxw
+三立新闻,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twslxw
+非凡新闻,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twffxw
+民视新闻,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twmsxw
+TVBS新闻,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twtvbsxw
+TVBS HD,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twtvbs
+龙祥电影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twlxdy
+东森电影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twdsdy
+卫视电影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twwsdy
+美亚电影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twmydy
+纬来电影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twwldy
+纬来体育,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twwlty
 
 海外频道,#genre#
 USA NBC,http://stream.tvtap.live:8081/live/us-nbcback.stream/playlist.m3u8
@@ -1057,6 +1121,26 @@ YY宗玉师傅,http://cloudplay.tk/api/yy.php?id=52870290
 小品,http://3954-out.liveplay.myqcloud.com/live/3954_225458404.flv?bizid=3954&txSecret=ad780c875d00984fc3f70000f350003a&txTime=603c37cc
 音乐20TV,http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 爱电竞,http://101.71.255.229:6610/zjhs/2/10110/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱奇艺轮播,#genre#
+爱奇艺,http://50.7.161.82:8277/streams/d/iqiyi_pye/playlist.m3u8
+爱奇艺-热播电视剧,http://112.49.51.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c57_lb_212_600_t10/c57_lb_212_600_t10.m3u8
+爱奇艺-票房收割机,http://112.49.51.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c56_lb_184_600_t10/c56_lb_184_600_t10.m3u8
+爱奇艺-收视冠军,http://112.49.51.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c56_lb_230_720P_t10/c56_lb_230_720P_t10.m3u8
+爱奇艺-经典港片,http://112.49.51.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c51_lb_110_600_t10/c51_lb_110_600_t10.m3u8
+爱奇艺-惊悚午夜,http://112.49.51.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c51_lb_115_600_t10/c51_lb_115_600_t10.m3u8
+爱奇艺-仙侠玄幻,http://112.49.51.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c55_lb_148_600_t10/c55_lb_148_600_t10.m3u8
+爱奇艺-权谋剧场,http://112.49.51.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c55_lb_167_600_t10/c55_lb_167_600_t10.m3u8
+爱奇艺-军旅剧场,http://112.49.51.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c55_lb_144_600_t10/c55_lb_144_600_t10.m3u8
+爱奇艺-抗战剧场,http://112.49.51.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c54_lb_163_600_t10/c54_lb_163_600_t10.m3u8
+爱奇艺-红色剧场,http://112.49.51.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c56_lb_179_600_t10/c56_lb_179_600_t10.m3u8
+爱奇艺-宫廷正剧,http://112.49.48.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c54_lb_152_600_t10/c54_lb_152_600_t10.m3u8
+爱奇艺-家庭剧场,http://112.49.51.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c55_lb_158_600_t10/c55_lb_158_600_t10.m3u8
+爱奇艺-军事观察,http://112.49.51.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c57_lb_239_720P_t10/c57_lb_239_720P_t10.m3u8
+爱奇艺-五星影院,http://112.49.51.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c56_lb_183_600_t10/c56_lb_183_600_t10.m3u8
+爱奇艺-戏曲影院,http://112.49.51.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c56_lb_245_600_t10/c56_lb_245_600_t10.m3u8
+华数云_抗日大片,http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r3/cctv/gaoqingdapian/600/index.m3u8?ProgramID=&amp;encrypt=
+华数云_抗战连播,http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/5100180869/75/index.m3u8?ProgramID=&amp;encrypt=
+华数云_红色谍战,http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5101079524/50/index.m3u8?ProgramID=&amp;encrypt=
 CIBN频道,#genre#
 CIBN动画乐园,http://iptv.inewya.com/qq494937337/others/cibn.php?id=0
 CIBN真人秀,http://iptv.inewya.com/qq494937337/others/cibn.php?id=1
