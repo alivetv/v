@@ -1,28 +1,3 @@
-盒锦推荐,#genre#
-串烧[1280*720],https://vd4.bdstatic.com/mda-mkn4iq79ihtufbc1/sc/cae_h264/1637639849265611965/mda-mkn4iq79ihtufbc1.mp4
-舞曲,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgr-2n9AUoqsakNg.mp4
-
-露营,#genre#
-小姐姐,http://52bsj.vip:81/api/v3/file/get/1120/%E5%90%BE%E7%88%B1%E9%9C%B2%E8%90%A51.mp4?sign=zSiYQXeqBCh1phPwzegZKexhcK6mdgLYKSRUTooA7-o%3D%3A0
-小姐姐2,http://52bsj.vip:81/api/v3/file/get/13847/%E5%90%BE%E7%88%B1%E9%9C%B2%E8%90%A52.mp4?sign=ZVjO0tVBHkyJvZ_vqgB1q2SbPRQVlbeKz8orD56WqGQ%3D%3A0
-
-游戏,#genre#
-王者荣耀赛事,https://live.52sf.ga/huya/kpl
-张大仙,http://hlstct.douyucdn2.cn/dyliveflv1a/1863767rkpl_2000.m3u8?txSecret=175d6fc5cee0c5ead2da785d83f6be89&txTime=62ee652d&token=h5-douyu-0-1863767-d6b6b9b92749dd388f4aff362450ea75&did=14bf1752d3ec163ad44fd75500051631&origin=tct&vhost=play2
-暴雪频道,https://live.52sf.ga/huya/blizzardgame1
-ESLCSGO,https://live.52sf.ga/huya/eslcsgo
-游戏风云,http://183.207.255.188/live/program/live/yxfyhd/4000000/mnf.m3u8
-游戏风云[1920*1080],http://183.207.255.188/live/program/live/yxfyhd/4000000/mnf.m3u8
-黑莓电竞[1920*1080],http://39.134.66.66/PLTV/88888888/224/3221225559/index.m3u8
-黑莓电竞[1920*1080],http://39.134.65.179/PLTV/88888888/224/3221225559/index.m3u8
-黑莓电竞[1920*1080],http://39.134.65.166/PLTV/88888888/224/3221225559/index.m3u8
-黑莓电竞[1920*1080],http://39.134.65.173/PLTV/88888888/224/3221225559/index.m3u8
-黑莓电竞[1920*1080],http://39.134.65.175/PLTV/88888888/224/3221225559/index.m3u8
-黑莓电竞[1920*1080],http://39.134.65.162/PLTV/88888888/224/3221225559/index.m3u8
-黑莓电竞[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225653/index.m3u8
-黑莓电竞[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225749/index.m3u8
-黑莓电竞[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225750/index.m3u8
-黑莓电竞[1920*1080],http://111.40.196.9/PLTV/88888888/224/3221225606/index.m3u8
 
 动漫,#genre#
 七龍珠改[960*720][960*720],https://epg.112114.xyz/huya/11601966
@@ -1578,7 +1553,31 @@ SiTV东方财经,http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/d
 武清综合,https://tvpull.smartwq.cn/wqlive/convergencemedia/playlist.m3u8?ztianjd
 西藏,http://39.135.32.10:6610/000000001000/xizangstv/1.m3u8?IASHttpSessionId=OTT?zxicd
 
+盒锦推荐,#genre#
+串烧[1280*720],https://vd4.bdstatic.com/mda-mkn4iq79ihtufbc1/sc/cae_h264/1637639849265611965/mda-mkn4iq79ihtufbc1.mp4
+舞曲,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgr-2n9AUoqsakNg.mp4
 
+露营,#genre#
+小姐姐,http://52bsj.vip:81/api/v3/file/get/1120/%E5%90%BE%E7%88%B1%E9%9C%B2%E8%90%A51.mp4?sign=zSiYQXeqBCh1phPwzegZKexhcK6mdgLYKSRUTooA7-o%3D%3A0
+小姐姐2,http://52bsj.vip:81/api/v3/file/get/13847/%E5%90%BE%E7%88%B1%E9%9C%B2%E8%90%A52.mp4?sign=ZVjO0tVBHkyJvZ_vqgB1q2SbPRQVlbeKz8orD56WqGQ%3D%3A0
+
+游戏,#genre#
+王者荣耀赛事,https://live.52sf.ga/huya/kpl
+张大仙,http://hlstct.douyucdn2.cn/dyliveflv1a/1863767rkpl_2000.m3u8?txSecret=175d6fc5cee0c5ead2da785d83f6be89&txTime=62ee652d&token=h5-douyu-0-1863767-d6b6b9b92749dd388f4aff362450ea75&did=14bf1752d3ec163ad44fd75500051631&origin=tct&vhost=play2
+暴雪频道,https://live.52sf.ga/huya/blizzardgame1
+ESLCSGO,https://live.52sf.ga/huya/eslcsgo
+游戏风云,http://183.207.255.188/live/program/live/yxfyhd/4000000/mnf.m3u8
+游戏风云[1920*1080],http://183.207.255.188/live/program/live/yxfyhd/4000000/mnf.m3u8
+黑莓电竞[1920*1080],http://39.134.66.66/PLTV/88888888/224/3221225559/index.m3u8
+黑莓电竞[1920*1080],http://39.134.65.179/PLTV/88888888/224/3221225559/index.m3u8
+黑莓电竞[1920*1080],http://39.134.65.166/PLTV/88888888/224/3221225559/index.m3u8
+黑莓电竞[1920*1080],http://39.134.65.173/PLTV/88888888/224/3221225559/index.m3u8
+黑莓电竞[1920*1080],http://39.134.65.175/PLTV/88888888/224/3221225559/index.m3u8
+黑莓电竞[1920*1080],http://39.134.65.162/PLTV/88888888/224/3221225559/index.m3u8
+黑莓电竞[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225653/index.m3u8
+黑莓电竞[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225749/index.m3u8
+黑莓电竞[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225750/index.m3u8
+黑莓电竞[1920*1080],http://111.40.196.9/PLTV/88888888/224/3221225606/index.m3u8
 
 MV舞曲,#genre#
 韩国动感舞曲1,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgr-2n9AUoqsakNg.mp4
@@ -3277,6 +3276,11 @@ CCTV兵器科技,rtsp://221.203.83.35/PLTV/88888888/224/3221226704/1000010000000
 CETV教育一台,http://txycsbl.centv.cn/zb/0628cetv1.m3u8?$超清1080P#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225917/index.m3u8?fmt=ts2hls?$超清1080P#http://117.148.179.156/PLTV/88888888/224/3221231714/index.m3u8?$超清1080P#http://39.136.48.2:8089/PLTV/88888888/224/3221226252/index.m3u8?$超清1080P
 环球旅游,http://117.148.179.154/PLTV/88888888/224/3221231712/index.m3u8?$标清576P
 中华美食,http://39.135.138.58:18890/PLTV/88888888/224/3221225924/index.m3u8?$标清576P
+CCTV兵器科技HD,http://42.176.185.28:9901/tsfile/live/1034_1.m3u8
+CCTV央视文化精品HD,http://42.176.185.28:9901/tsfile/live/1028_1.m3u8
+CCTV风云音乐HD,http://42.176.185.28:9901/tsfile/live/1024_1.m3u8
+CCTV风云剧场HD,http://42.176.185.28:9901/tsfile/live/1031_1.m3u8
+CCTV世界地理HD,http://42.176.185.28:9901/tsfile/live/1037_1.m3u8
 
 影视乐园,#genre#
 CHC高清电影,http://111.20.33.93/TVOD/88888893/224/3221226463/index.m3u8?$超清1080P
@@ -3433,7 +3437,7 @@ KBS 国际频道,https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworl
 缅甸·TVIKIM,http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 加密分类密码↓,https://share.nite07.com/api/v3/file/source/14698/petal_20220817_132709.mp4?sign=wM2gtvawPaZtm58g9ARaIF1nxDzFbvvBGYHxrYLHUp8%3D%3A0
 
-·港台杂类·_0818,#genre#
+·港台杂类·_0910,#genre#
 凤凰中文台,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰资讯台,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰香港台,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
@@ -3486,7 +3490,7 @@ BBC国际新闻,http://vips-livecdn.fptplay.net/sdb/bbcnew_2000.stream/chunklist
 CNN新闻频道,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 In WILD,https://inwild-samsungau.amagi.tv/playlist.m3u8
 
-·测试频道·_0818,#genre#
+·测试频道·_0910,#genre#
 凤凰中文,http://60.251.33.252:18581/.m3u8
 凤凰资讯,http://50.7.220.74:8278/phoenixinfo_hd/playlist.m3u8?tid=m7f4a830029be&ct=18336&tsum=74f57bddc0725f74838380086dce3e44
 SBS,http://1.245.74.5:1935/live/tv/.m3u8
@@ -3534,6 +3538,78 @@ ELEVEN2,rtmp://219.80.97.25/sat/tv741
 卫视中文台,http://59.125.122.90:18522/.m3u8
 爱尔达影剧,http://50.7.220.74:8278/eltadrama_twn/playlist.m3u8?tid=mea60e416943110603068&ct=17874&tsum=ede38d2a218a34b5397af9d19e0c39a3
 好莱坞电影,http://50.7.220.74:8278/hollywoodmovies_twn/playlist.m3u8?tid=m39bfcd99239617992917&ct=17874&tsum=774ffa7546c934dc27e743c5bbb454d3
+卫视中文台,http://60.251.33.252:18522/.m3u8
+
+纬来综合,http://60.251.33.252:18540/.m3u8
+
+纬来育乐,http://60.251.33.252:18541/.m3u8
+
+纬来体育,http://60.251.33.252:18509/.m3u8
+
+台视,http://60.251.33.252:18543/.m3u8
+
+人间卫视,http://60.251.33.252:18561/.m3u8
+
+民视新闻台,http://60.251.33.252:18563/.m3u8
+
+龙华戏剧,http://60.251.33.252:18513/.m3u8
+
+龙华日韩,http://60.251.33.252:18551/.m3u8
+
+东森戏剧,http://60.251.33.252:18538/.m3u8
+
+东森财经新闻,http://60.251.33.252:18515/.m3u8
+
+东风37,http://60.251.33.252:18560/.m3u8
+
+大爱,http://60.251.33.252:18567/.m3u8
+
+八大第一台,http://60.251.33.252:18539/.m3u8
+
+starworld,http://60.251.33.252:18504/.m3u8
+
+NHK,http://60.251.33.252:18525/.m3u8
+
+无线新闻,http://diyp-diyp.tk/xyoutube817.php?id=73&p=0&c=3
+
+无线财经,http://diyp-diyp.tk/xyoutube817.php?id=79&p=1&c=3
+
+VUITV,http://diyp-diyp.tk/xyoutube817.php?id=94&p=4&c=3
+
+翡翠台,http://diyp-diyp.tk/xyoutube817.php?id=78&p=0&c=3
+
+J2,http://diyp-diyp.tk/xyoutube817.php?id=74&p=0&c=3
+
+星河国语,http://diyp-diyp.tk/xyoutube817.php?id=76&p=1&c=3
+
+美亚电影,http://diyp-diyp.tk/xyoutube817.php?id=89&p=0&c=3
+
+中天新聞,http://diyp-diyp.tk/xyoutube817.php?id=42&p=0&c=3
+
+TVBS新闻,http://diyp-diyp.tk/xyoutube817.php?id=37&p=1&c=3
+
+寰宇新闻,http://diyp-diyp.tk/xyoutube817.php?id=85&p=2&c=3
+
+东森新闻,http://diyp-diyp.tk/xyoutube817.php?id=33&p=1&c=3
+
+民视新闻,http://diyp-diyp.tk/xyoutube817.php?id=5&p=0&c=3
+
+中天新闻,http://diyp-diyp.tk/youtube817.php?id=_QbRXRnHMVY
+
+中视新闻,http://diyp-diyp.tk/youtube817.php?id=TCnaIE_SAtM
+
+东森财经,http://diyp-diyp.tk/youtube817.php?id=ABn_ccXn_jc
+
+东森LIVE,http://diyp-diyp.tk/youtube817.php?id=R2iMq5LKXco
+
+台视新闻,http://diyp-diyp.tk/youtube817.php?id=xL0ch83RAK8
+
+寰宇新聞,http://diyp-diyp.tk/youtube817.php?id=B7Zp3d6xXWw
+
+镜新闻台,http://diyp-diyp.tk/youtube817.php?id=5n0y6b0Q25o
+
+东森全球,http://diyp-diyp.tk/youtube817.php?id=SBtGwNMfuf0
+
 咪咕移動,#genre#
 CCTV1,http://117.148.129.9/PLTV/88888888/224/3221231468/index.m3u8
 CCTV2,http://117.148.129.9/PLTV/88888888/224/3221231678/index.m3u8
@@ -3578,12 +3654,12 @@ CHC家庭影院,http://117.148.129.14/PLTV/88888888/224/3221231799/index.m3u8
 电视直播软件,https://share.nite07.com/api/v3/file/source/14698/petal_20220817_132709.mp4?sign=wM2gtvawPaZtm58g9ARaIF1nxDzFbvvBGYHxrYLHUp8%3D%3A0
 HTVBox直播,https://share.nite07.com/api/v3/file/source/14698/petal_20220817_132709.mp4?sign=wM2gtvawPaZtm58g9ARaIF1nxDzFbvvBGYHxrYLHUp8%3D%3A0
 严禁商业用途,https://share.nite07.com/api/v3/file/source/14698/petal_20220817_132709.mp4?sign=wM2gtvawPaZtm58g9ARaIF1nxDzFbvvBGYHxrYLHUp8%3D%3A0
-🇳•免声,#genre#
+免声,#genre#
 免责声明,https://ghproxy.com/https://raw.githubusercontent.com/sun520999/m3u/master/Video/shengming.mp4
 --以下成人--,#genre#
 频道分割线,https://v.kdou5.com/20220331/2O5EiSZ7/index.m3u8
 
-🇨•授_0818,#genre#
+授_0910,#genre#
 前泽小百,https://fc.imgscloud.com/f/vrtpyyczpf/vrtpyyczpf.m3u8
 無碼影片,https://d3vfgw5crbffaq.cloudfront.net/20200109/FC2PPV-1224188/index.m3u8
 1Pondo-060117_534  藤井なな,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-060117_534/index.m3u8
