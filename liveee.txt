@@ -3826,7 +3826,7 @@ KBS 国际频道,https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworl
 缅甸·TVIKIM,http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 加密分类密码↓,https://share.nite07.com/api/v3/file/source/14698/petal_20220817_132709.mp4?sign=wM2gtvawPaZtm58g9ARaIF1nxDzFbvvBGYHxrYLHUp8%3D%3A0
 
-·港台杂类·_1023,#genre#
+·港台杂类·_1038,#genre#
 凤凰中文台,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰资讯台,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰香港台,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
