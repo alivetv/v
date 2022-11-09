@@ -3578,7 +3578,7 @@ CCTV4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8?$蓝光1080P#https://p.ggipt
 南方卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221226203/index.m3u8?$标清576P
 三沙卫视,http://pull2.ssws.tv/live/SswsTV20210803.m3u8?$高清720P
 教育卫视,http://39.136.48.98:8089/PLTV/88888888/224/3221226049/index.m3u8?$超清1080P
-密码获取,https://share.nite07.com/api/v3/file/source/14698/petal_20220817_132709.mp4?sign=wM2gtvawPaZtm58g9ARaIF1nxDzFbvvBGYHxrYLHUp8%3D%3A0
+密码获取,https://share.nite07.com/api/v3/file/source/31553/pt20221109.mp4?sign=tyXjoTNOCrlx1Crjc7mSyCGuG1V4jcpMJeYO2KBo1nI%3D%3A0
 
 央视频道,#genre#
 CCTV1,rtsp://221.203.83.35:554/PLTV/88888888/224/0/3221226118/iptv65795.smil?$超清1080P#http://111.20.33.93/TVOD/88888893/224/3221226231/index.m3u8?$超清1080P#http://39.134.193.100:6610/030000001001/hdcctv01/1.m3u8?#http://xzbf.fst1994.cn/live/cctv1.m3u8#http://111.20.35.103:6610/yinhe/2/ch00000090990000001068/index.m3u8?virtualDomain=yinhe.live_hls.zte.com?$超清1080P#http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225918/index.m3u8?$超清1080P#http://125.210.152.19:9090/live/hzgq-cctv1gq-h264.m3u8?$高清720P#http://ott.mobaibox.com/PLTV/3/224/3221227634/index.m3u8?$超清1080P#http://111.63.117.13:6060/030000001000/CCTV-1-HD/CCTV-1-HD.m3u8?$超清1080P#http://39.134.66.4:80/PLTV/88888888/224/3221225816/index.m3u8?$超清1080P
@@ -3824,9 +3824,9 @@ KBS 国际频道,https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworl
 法国24新闻,http://f24hls-i.akamaihd.net:80/hls/live/221147/F24_EN_HI_HLS/01.m3u8
 泰国·Thai PBS,https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 缅甸·TVIKIM,http://edge.vediostream.com/abr/tvikim/playlist.m3u8
-加密分类密码↓,https://share.nite07.com/api/v3/file/source/14698/petal_20220817_132709.mp4?sign=wM2gtvawPaZtm58g9ARaIF1nxDzFbvvBGYHxrYLHUp8%3D%3A0
+加密分类密码↓,https://share.nite07.com/api/v3/file/source/31553/pt20221109.mp4?sign=tyXjoTNOCrlx1Crjc7mSyCGuG1V4jcpMJeYO2KBo1nI%3D%3A0
 
-·港台杂类·_1085,#genre#
+·港台杂类·_1115,#genre#
 凤凰中文台,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰资讯台,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰香港台,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
@@ -3879,7 +3879,7 @@ BBC国际新闻,http://vips-livecdn.fptplay.net/sdb/bbcnew_2000.stream/chunklist
 CNN新闻频道,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 In WILD,https://inwild-samsungau.amagi.tv/playlist.m3u8
 
-·测试频道·_1085,#genre#
+·测试频道·_1115,#genre#
 凤凰中文,http://60.251.33.252:18581/.m3u8
 凤凰资讯,http://50.7.220.74:8278/phoenixinfo_hd/playlist.m3u8?tid=m7f4a830029be&ct=18336&tsum=74f57bddc0725f74838380086dce3e44
 SBS,http://1.245.74.5:1935/live/tv/.m3u8
@@ -4039,8 +4039,8 @@ CHC动作电影,http://117.148.129.9/PLTV/88888888/224/3221231580/index.m3u8
 CHC家庭影院,http://117.148.129.14/PLTV/88888888/224/3221231799/index.m3u8
 
 软件说明,#genre#
-加密密码获取,https://share.nite07.com/api/v3/file/source/14698/petal_20220817_132709.mp4?sign=wM2gtvawPaZtm58g9ARaIF1nxDzFbvvBGYHxrYLHUp8%3D%3A0
-电视直播软件,https://share.nite07.com/api/v3/file/source/14698/petal_20220817_132709.mp4?sign=wM2gtvawPaZtm58g9ARaIF1nxDzFbvvBGYHxrYLHUp8%3D%3A0
+加密密码获取,https://share.nite07.com/api/v3/file/source/31553/pt20221109.mp4?sign=tyXjoTNOCrlx1Crjc7mSyCGuG1V4jcpMJeYO2KBo1nI%3D%3A0
+电视直播软件,https://share.nite07.com/api/v3/file/source/31553/pt20221109.mp4?sign=tyXjoTNOCrlx1Crjc7mSyCGuG1V4jcpMJeYO2KBo1nI%3D%3A0
 HTVBox直播,https://share.nite07.com/api/v3/file/source/14698/petal_20220817_132709.mp4?sign=wM2gtvawPaZtm58g9ARaIF1nxDzFbvvBGYHxrYLHUp8%3D%3A0
 严禁商业用途,https://share.nite07.com/api/v3/file/source/14698/petal_20220817_132709.mp4?sign=wM2gtvawPaZtm58g9ARaIF1nxDzFbvvBGYHxrYLHUp8%3D%3A0
 免声,#genre#
@@ -4048,7 +4048,7 @@ HTVBox直播,https://share.nite07.com/api/v3/file/source/14698/petal_20220817_13
 --以下成人--,#genre#
 频道分割线,https://v.kdou5.com/20220331/2O5EiSZ7/index.m3u8
 
-授_1085,#genre#
+授_1115,#genre#
 前泽小百,https://fc.imgscloud.com/f/vrtpyyczpf/vrtpyyczpf.m3u8
 無碼影片,https://d3vfgw5crbffaq.cloudfront.net/20200109/FC2PPV-1224188/index.m3u8
 1Pondo-060117_534  藤井なな,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-060117_534/index.m3u8
