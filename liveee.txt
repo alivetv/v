@@ -4041,8 +4041,8 @@ CHC家庭影院,http://117.148.129.14/PLTV/88888888/224/3221231799/index.m3u8
 软件说明,#genre#
 加密密码获取,https://share.nite07.com/api/v3/file/source/31553/pt20221109.mp4?sign=tyXjoTNOCrlx1Crjc7mSyCGuG1V4jcpMJeYO2KBo1nI%3D%3A0
 电视直播软件,https://share.nite07.com/api/v3/file/source/31553/pt20221109.mp4?sign=tyXjoTNOCrlx1Crjc7mSyCGuG1V4jcpMJeYO2KBo1nI%3D%3A0
-HTVBox直播,https://fastly.jsdelivr.net/gh/alivetv/live/pt20221109.mp4
-严禁商业用途,https://fastly.jsdelivr.net/gh/alivetv/live/pt20221109.mp4
+HTVBox直播,http://52bsj.vip:81/api/v3/file/get/62114/pt20221109.mp4?sign=dkISUVqaD6vMkabiTm00QhUlelFF4P7Wpv-mOgASv48%3D%3A0
+严禁商业用途,http://52bsj.vip:81/api/v3/file/get/62114/pt20221109.mp4?sign=dkISUVqaD6vMkabiTm00QhUlelFF4P7Wpv-mOgASv48%3D%3A0
 免声,#genre#
 免责声明,https://ghproxy.com/https://raw.githubusercontent.com/sun520999/m3u/master/Video/shengming.mp4
 --以下成人--,#genre#
