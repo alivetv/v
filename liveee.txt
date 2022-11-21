@@ -2193,7 +2193,18 @@ MG2[1920*1080],http://39.135.46.102:6610/PLTV/77777777/224/3221225876/index.m3u8
 52MG体育*[1920*1080],http://39.135.46.102:6610/PLTV/77777777/224/3221225854/index.m3u8?hls
 53MG体育[1920*1080],http://39.135.46.102:6610/PLTV/77777777/224/3221225853/index.m3u8?hls
 54MG体育[1920*1080],http://39.135.46.102:6610/PLTV/77777777/224/3221225852/index.m3u8?hls
-
+CCTV5+HD,http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8
+CCTV5+HD,http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
+魅力足球,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
+新视觉HD,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
+NEWTV精品体育,http://39.135.138.60:18890/PLTV/88888910/224/3221225709/index.m3u8
+NEWTV超级体育,http://39.135.138.59:18890/PLTV/88888910/224/3221225622/index.m3u8
+CCTV5,http://39.135.138.59:18890/PLTV/88888910/224/3221225633/index.m3u8
+CCTV5,http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000205103.m3u8
+CCTV5,http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000205102.m3u8
+CCTV5,http://60.213.134.68/tlivecloud-cdn.ysp.cctv.cn/001/2000205101.m3u8
+CCTV-13,http://60.213.134.68/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
+CCTV-5+,http://60.213.134.68/tlivecloud-cdn.ysp.cctv.cn/001/2000204503.m3u8
 
 电影,#genre#
 
@@ -3826,7 +3837,7 @@ KBS 国际频道,https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworl
 缅甸·TVIKIM,http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 加密分类密码↓,https://share.nite07.com/api/v3/file/source/31553/pt20221109.mp4?sign=tyXjoTNOCrlx1Crjc7mSyCGuG1V4jcpMJeYO2KBo1nI%3D%3A0
 
-·港台杂类·_1115,#genre#
+·港台杂类·_1126,#genre#
 凤凰中文台,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰资讯台,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰香港台,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
@@ -3879,7 +3890,7 @@ BBC国际新闻,http://vips-livecdn.fptplay.net/sdb/bbcnew_2000.stream/chunklist
 CNN新闻频道,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 In WILD,https://inwild-samsungau.amagi.tv/playlist.m3u8
 
-·测试频道·_1115,#genre#
+·测试频道·_1126,#genre#
 凤凰中文,http://60.251.33.252:18581/.m3u8
 凤凰资讯,http://50.7.220.74:8278/phoenixinfo_hd/playlist.m3u8?tid=m7f4a830029be&ct=18336&tsum=74f57bddc0725f74838380086dce3e44
 SBS,http://1.245.74.5:1935/live/tv/.m3u8
@@ -4048,7 +4059,7 @@ HTVBox直播,http://52bsj.vip:81/api/v3/file/get/62114/pt20221109.mp4?sign=dkISU
 --以下成人--,#genre#
 频道分割线,https://v.kdou5.com/20220331/2O5EiSZ7/index.m3u8
 
-授_1115,#genre#
+授_1126,#genre#
 前泽小百,https://fc.imgscloud.com/f/vrtpyyczpf/vrtpyyczpf.m3u8
 無碼影片,https://d3vfgw5crbffaq.cloudfront.net/20200109/FC2PPV-1224188/index.m3u8
 1Pondo-060117_534  藤井なな,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-060117_534/index.m3u8
@@ -4134,3 +4145,21 @@ MyCamTV Skinny Girls,http://live.mycamtv.com/skinny.m3u8
 MyCamTV Teen Girls,http://live.mycamtv.com/teen.m3u8
 MyCamTV White Girls,http://live.mycamtv.com/white.m3u8
 MyCamTV Young Girls,http://live.mycamtv.com/young.m3u8
+教练的淫语言指导,https://fc.imgscloud.com/e/dslsaxfjsp/dslsaxfjsp.m3u8
+美人芒妹丼极上之2 前编,https://fc.imgscloud.com/n/lbbcyteloq/lbbcyteloq.m3u8
+前泽小百,https://fc.imgscloud.com/f/vrtpyyczpf/vrtpyyczpf.m3u8
+無碼影片,https://d3vfgw5crbffaq.cloudfront.net/20200109/FC2PPV-1224188/index.m3u8
+1Pondo-053017_533  悶絶！美女,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-053017_533/index.m3u8
+1Pondo-060117_534  藤井なな,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-060117_534/index.m3u8
+1Pondo-060317_535 着物の南條れいな,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-060317_535/index.m3u8
+1Pondo-060617_536  大噴射！潮吹,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-060617_536/index.m3u8
+1Pondo-061317_539  上原茉咲,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-061317_539/index.m3u8
+1Pondo-061517_540 素人宅訪問 宮間葵,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-061517_540/index.m3u8
+1Pondo-061717_541 制服天使 ももき希,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-061717_541/index.m3u8
+1Pondo-062117_001 水着 白石麗奈,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-062117_001/index.m3u8
+1Pondo-062317_543  山中麗子,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-062317_543/index.m3u8
+1Pondo-062717_545  末吉りり,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-062717_545/index.m3u8
+1Pondo-062817_001  彩波有紀,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-062817_001/index.m3u8
+1Pondo-063017_546  音海さや,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-063017_546/index.m3u8
+1Pondo-070117_547  双葉みお 朝比奈菜々子,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-070117_547/index.m3u8
+1Pondo-070517_001 水着 朝比奈菜々子,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-070517_001/index.m3u8
