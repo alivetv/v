@@ -3837,7 +3837,7 @@ KBS 国际频道,https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworl
 缅甸·TVIKIM,http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 加密分类密码↓,https://share.nite07.com/api/v3/file/source/31553/pt20221109.mp4?sign=tyXjoTNOCrlx1Crjc7mSyCGuG1V4jcpMJeYO2KBo1nI%3D%3A0
 
-·港台杂类·_1126,#genre#
+·港台杂类·_1221,#genre#
 凤凰中文台,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰资讯台,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰香港台,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
@@ -3890,7 +3890,7 @@ BBC国际新闻,http://vips-livecdn.fptplay.net/sdb/bbcnew_2000.stream/chunklist
 CNN新闻频道,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 In WILD,https://inwild-samsungau.amagi.tv/playlist.m3u8
 
-·测试频道·_1126,#genre#
+·测试频道·_1221,#genre#
 凤凰中文,http://60.251.33.252:18581/.m3u8
 凤凰资讯,http://50.7.220.74:8278/phoenixinfo_hd/playlist.m3u8?tid=m7f4a830029be&ct=18336&tsum=74f57bddc0725f74838380086dce3e44
 SBS,http://1.245.74.5:1935/live/tv/.m3u8
@@ -4049,6 +4049,14 @@ CCTV世界地理,http://117.148.129.8/PLTV/88888888/224/3221231537/index.m3u8
 CHC动作电影,http://117.148.129.9/PLTV/88888888/224/3221231580/index.m3u8
 CHC家庭影院,http://117.148.129.14/PLTV/88888888/224/3221231799/index.m3u8
 
+🏆️世界杯,#genre#
+CCTV-5,http://hls.ye23.vip/hls/cctv5hd.m3u8
+CCTV5,http://219.151.31.37/liveplay-kk.rtxapp.com/live/program/live/cctv5hd/2300000/mnf.m3u8
+CCTV5-高清(1),http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
+CCTV5-高清(2),http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
+CCTV5-高清(3),http://111.29.9.37:6610/000000001000/1000000005000025222/index.m3u8?stbId=3&amp;livemode=1&amp;IASHttpSessionId=OTT2197120221119175523009763&amp;channel-id=ystenlive&amp;Contentid=1000000005000025222
+CCTV5-高清(4),http://111.29.9.42:6610/000000001000/1000000005000025222/index.m3u8?stbId=3&amp;livemode=1&amp;IASHttpSessionId=OTT2197120221119175523009763&amp;channel-id=ystenlive&amp;Contentid=1000000005000025222
+CCTV5-高清(5),http://111.29.9.37:6610/000000001000/1000000005000025222/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222
 软件说明,#genre#
 加密密码获取,https://share.nite07.com/api/v3/file/source/31553/pt20221109.mp4?sign=tyXjoTNOCrlx1Crjc7mSyCGuG1V4jcpMJeYO2KBo1nI%3D%3A0
 电视直播软件,https://share.nite07.com/api/v3/file/source/31553/pt20221109.mp4?sign=tyXjoTNOCrlx1Crjc7mSyCGuG1V4jcpMJeYO2KBo1nI%3D%3A0
@@ -4059,7 +4067,7 @@ HTVBox直播,http://52bsj.vip:81/api/v3/file/get/62114/pt20221109.mp4?sign=dkISU
 --以下成人--,#genre#
 频道分割线,https://v.kdou5.com/20220331/2O5EiSZ7/index.m3u8
 
-授_1126,#genre#
+授_1221,#genre#
 前泽小百,https://fc.imgscloud.com/f/vrtpyyczpf/vrtpyyczpf.m3u8
 無碼影片,https://d3vfgw5crbffaq.cloudfront.net/20200109/FC2PPV-1224188/index.m3u8
 1Pondo-060117_534  藤井なな,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-060117_534/index.m3u8
